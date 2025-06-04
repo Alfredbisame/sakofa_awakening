@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Home",
+    "knowledge": "Knowledge",
+    "rituals": "Rituals",
+    "community": "Community",
+    "shop": "Sacred Shop",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "profile": "Profile",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "orContinueWith": "Or continue with",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  }
+}

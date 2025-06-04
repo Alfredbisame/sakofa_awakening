@@ -1,0 +1,28 @@
+{
+  "common": {
+    "welcome": "Bienvenido a Sakofa Ancestral Light Network",
+    "signIn": "Iniciar sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "language": "Idioma"
+  },
+  "nav": {
+    "home": "Inicio",
+    "knowledge": "Centro de Conocimiento",
+    "rituals": "Rituales",
+    "community": "Comunidad",
+    "shop": "Tienda Sagrada"
+  },
+  "auth": {
+    "emailPlaceholder": "Ingrese su correo electrónico",
+    "passwordPlaceholder": "Ingrese su contraseña",
+    "forgotPassword": "¿Olvidó su contraseña?",
+    "noAccount": "¿No tiene una cuenta?",
+    "hasAccount": "¿Ya tiene una cuenta?",
+    "createAccount": "Crear cuenta"
+  }
+}

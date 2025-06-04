@@ -1,0 +1,28 @@
+{
+  "common": {
+    "welcome": "Akwaaba wɔ Sakofa Ancestral Light Network",
+    "signIn": "Wura mu",
+    "signUp": "Kyerɛw wo din",
+    "signOut": "Fi mu",
+    "email": "Email",
+    "password": "Nsɛm-ahintasɛm",
+    "profile": "Wo ho nsɛm",
+    "settings": "Nhyehyɛe",
+    "language": "Kasa"
+  },
+  "nav": {
+    "home": "Fie",
+    "knowledge": "Nimdeɛ Bea",
+    "rituals": "Amammere",
+    "community": "Kuo",
+    "shop": "Kronkron Dwetɔ Bea"
+  },
+  "auth": {
+    "emailPlaceholder": "Kyerɛw wo email",
+    "passwordPlaceholder": "Kyerɛw wo nsɛm-ahintasɛm",
+    "forgotPassword": "Wo werɛ afi wo nsɛm-ahintasɛm?",
+    "noAccount": "Wonni akontaabu?",
+    "hasAccount": "Wowɔ akontaabu dada?",
+    "createAccount": "Yɛ akontaabu"
+  }
+}
