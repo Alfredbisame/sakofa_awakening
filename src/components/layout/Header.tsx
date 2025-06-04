@@ -57,9 +57,11 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
             <Flame className="h-8 w-8 text-yellow-600 dark:text-yellow-500 mr-2" />
-            <span className="text-2xl font-bold text-brown-900 dark:text-amber-50 transition-colors duration-300">
-              Sakofa Awakening 
-            </span>
+            <span 
+            className="text-xl md:text-3xl lg:text-4xl font-bold text-brown-900 dark:text-amber-50 transition-colors duration-300"
+          >
+            Sakofa Awakening
+          </span>
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8">
@@ -209,7 +211,7 @@ const Header = () => {
                   toggleChat();
                   toggleMobileMenu();
                 }}
-                className="w-full text-left px-4 py-2 bg-yellow-600 hover:bg-yellow-700 text-white rounded-full transition-colors duration-300"
+                className="w-full text-left px-3 py-1 bg-yellow-600 hover:bg-yellow-700 text-white rounded-full transition-colors duration-300"
               >
                 Sacred Chat
               </button>
